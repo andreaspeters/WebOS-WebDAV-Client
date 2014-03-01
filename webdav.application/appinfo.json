@@ -1,0 +1,9 @@
+{
+  "id": "com.aventer.webdavclientlite",
+  "version": "0.1.13",
+  "vendor": "avEnter",
+  "type": "web",
+  "main": "index.html",
+  "title": "WebDAV Client",
+  "uiRevision": "2"
+}
